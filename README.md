@@ -1,4 +1,4 @@
-smile_to_unlock
+Smile to Unlock
 ===============
 
 Smile to Unlock
