@@ -7,9 +7,8 @@ It is envisioned to be used at places where users come by pre-indispose like pub
 Studies reveal that a smile is not only a result of positive feelings but also a catalyst for it. 
 
 * Set up 
-
-* -[ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker/downloads)
-* -Arduino sketch
-* -Processing sketch
-* -An Arduino
-* -A servo
+* [ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker/downloads)
+* Arduino sketch
+* Processing sketch
+* An Arduino
+* A servo
