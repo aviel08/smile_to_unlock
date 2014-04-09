@@ -6,10 +6,10 @@ Smile to Unlock is a project that aims to provoke change on people's life by req
 It is envisioned to be used at places where users come by pre-indispose like public departments or a dentist's office.
 Studies reveal that a smile is not only a result of positive feelings but also a catalyst for it. 
 
-*Set up 
+* Set up 
 
--[ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker/downloads)
--Arduino sketch
--Processing sketch
--An Arduino
--A servo
+* -[ofxFaceTracker](https://github.com/kylemcdonald/ofxFaceTracker/downloads)
+* -Arduino sketch
+* -Processing sketch
+* -An Arduino
+* -A servo
